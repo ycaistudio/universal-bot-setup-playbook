@@ -1,0 +1,23 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor & IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Secrets & Local credentials
+.env
+*.token
+*.key
+*.pem
+credentials.json
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+scratch/

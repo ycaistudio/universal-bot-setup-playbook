@@ -1,4 +1,7 @@
 # Universal Bot Setup Playbook (v1.0.0)
+
+![Universal Bot Setup Playbook](docs/yc-ai-studio-poster.jpg)
+
 **通用 AI 智能體管治、身份識別、安全防護與入列守則**  
 
 支援平台：Grok · Claude Code · Google Antigravity · Cursor · OpenAI · 本地 LLM

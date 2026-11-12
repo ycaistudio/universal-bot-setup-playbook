@@ -1,4 +1,7 @@
 # Universal Bot Setup Playbook (v1.0.0)
+
+![Universal Bot Setup Playbook](docs/yc-ai-studio-poster.jpg)
+
 **Universal Governance, Identity, Safety & Onboarding Playbook for AI Assistant Bots**  
 *通用 AI 智能體管治、身份識別、安全防護與入列守則 (開源標準版)*  
 *汎用 AI エージェント ガバナンス・アイデンティティ・セキュリティ導入プレイブック (オープンソース標準版)*  
